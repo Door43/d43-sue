@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sue:home|Door43 (sue)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sue|d43-sue repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sue/archive/master.zip|d43-sue.zip]]
+
+**Recent Changes**
+{{changes>ns = sue}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sue|Ethnologue data]]
+
